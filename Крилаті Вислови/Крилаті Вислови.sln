@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Крилаті Вислови", "Крилаті Вислови\Крилаті Вислови.csproj", "{125A36A9-82DD-451A-AE0B-CA08380910D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125A36A9-82DD-451A-AE0B-CA08380910D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125A36A9-82DD-451A-AE0B-CA08380910D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125A36A9-82DD-451A-AE0B-CA08380910D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125A36A9-82DD-451A-AE0B-CA08380910D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7499D5BD-94B7-4AF5-8C13-AA7C9FAEB58F}
+	EndGlobalSection
+EndGlobal

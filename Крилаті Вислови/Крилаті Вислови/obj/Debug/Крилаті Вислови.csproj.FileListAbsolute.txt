@@ -1,0 +1,17 @@
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\bin\Debug\Крилаті Вислови.exe.config
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\bin\Debug\Крилаті Вислови.exe
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\bin\Debug\Крилаті Вислови.pdb
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті Вислови.csproj.AssemblyReference.cache
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.Properties.Resources.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті Вислови.csproj.GenerateResource.cache
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті Вислови.csproj.CoreCompileInputs.cache
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті Вислови.exe
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті Вислови.pdb
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.MainForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.SearchForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.PrintForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.RemoveForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.AddForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.HistoryForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.EditForm.resources
+C:\Users\OLEG\Desktop\TRUE FORM OF HOMEWORK\ООПro\Курсова\Крилаті Вислови\Крилаті Вислови\obj\Debug\Крилаті_Вислови.AllPrintForm.resources
